@@ -1,3 +1,3 @@
-# Padrões de Projeto de Software
-Este repositório contém arquivos de códigos em Java que foram desenvolvidos durante a disciplina de Padrões de Projeto de Software.
+# Projeto_Detalhado_Software_2019.2
+Este repositório contém arquivos de códigos em Java que foram desenvolvidos durante a disciplina de Projeto Detalhado de Software.
 Padrões explorados: Singleton, Factory, Abstract Factory, Interator, Observer, Decorator etc.....
