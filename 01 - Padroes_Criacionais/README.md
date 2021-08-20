@@ -1,5 +1,5 @@
 # Padrões_Criacionais
-Os padrões criacionais servem para fornecer mecanismos de criação de objetos que aumentam a flexibilidade e a reutilização do código existente.
+Servem para fornecer mecanismos de criação de objetos que aumentam a flexibilidade e a reutilização do código existente.
 
 ## Quando devemos usar o Factory Method? 
 Quando queremos desacoplar o código das classes concretas e receber uma instância sem a necessidade de instanciar o objeto concreto.
