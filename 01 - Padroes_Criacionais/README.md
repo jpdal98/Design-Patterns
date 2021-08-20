@@ -1,5 +1,5 @@
 # Padrões_Criacionais
-Os Padrões criacionais servem para fornecer mecanismos de criação de objetos que aumentam a flexibilidade e a reutilização do código existente.
+Os padrões criacionais servem para fornecer mecanismos de criação de objetos que aumentam a flexibilidade e a reutilização do código existente.
 
 ## Quando devemos usar o Factory Method? 
 Quando queremos desacoplar o código das classes concretas e receber uma instância sem a necessidade de instanciar o objeto concreto.
@@ -11,7 +11,7 @@ Quando voce precisar produzir "familias" de objetos relacionados sem ter que esp
 Uma classe for utilizada com frequência por várias partes distintas do sistema, e essa classe não gerencia nenhum estado da aplicação.
 
 ## Quando devemos usar o Monostate?
-quando você deseja que a natureza singular da classe seja transparente para os usuários ou quando deseja empregar derivados polimórficos do objeto único.
+Quando você deseja que a natureza singular da classe seja transparente para os usuários ou quando deseja empregar derivados polimórficos do objeto único.
 
 ## Quando devemos usar o Builder?
 Quando o processo de construção de um objeto é considerado complexo e também quando se trata da construção de representações múltiplas de uma mesma classe
