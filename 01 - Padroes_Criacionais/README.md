@@ -8,7 +8,7 @@ Quando queremos desacoplar o código das classes concretas e receber uma instân
 Quando voce precisar produzir "familias" de objetos relacionados sem ter que especificar suas classes concretas.
 
 ## Quando devemos usar o Singleton?
-Uma classe for utilizada com frequência por várias partes distintas do sistema, e essa classe não gerencia nenhum estado da aplicação.
+Quando você precisa de um controle mais estrito sobre as variáveis globais
 
 ## Quando devemos usar o Monostate?
 Quando você deseja que a natureza singular da classe seja transparente para os usuários ou quando deseja empregar derivados polimórficos do objeto único.
