@@ -1,5 +1,5 @@
 # Padrões_Estruturais
-explicam como montar objetos e classes em estruturas maiores mas ainda mantendo essas estruturas flexíveis e eficientes.
+Servem para montar objetos e classes em estruturas maiores mas ainda mantendo essas estruturas flexíveis e eficientes.
 
 ## Quando devemos usar o Adapter? 
 Quando seu código possuir objetos com interfaces incompatíveis.
